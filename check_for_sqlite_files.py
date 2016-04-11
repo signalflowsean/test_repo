@@ -10,9 +10,7 @@
 
 
 //MORE CHANGES YOOOOOOOOOOO
-// change to see if works it github
-// does it works
-// who knows
+
 import os
 
 def isSQLite3(filename):
