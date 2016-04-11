@@ -9,7 +9,7 @@
 # Description	: Scans directories to check if there are any sqlite files in there 
 
 
-//MORE CHANGES YOOOOOOOOOOO
+//Wow two changes
 
 import os
 
