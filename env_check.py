@@ -10,8 +10,7 @@
 
 import os
 
-//two changes
-
+// branch new feature
 confdir = os.getenv("my_config")                # Set the variable confdir from the OS environment variable
 conffile = 'env_check.conf'                     # Set the variable conffile
 conffilename = os.path.join(confdir, conffile)  # Set the variable conffilename by joining confdir and conffile together
